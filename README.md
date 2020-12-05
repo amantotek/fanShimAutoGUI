@@ -5,7 +5,7 @@ https://github.com/pimoroni/fanshim-python/tree/master/examples has files for th
 
 ![image](https://user-images.githubusercontent.com/7591528/101183540-8fea3180-3647-11eb-8c69-5b3095b46bec.png)
 
-The plot above shows the fan on in red and off in green.
+The plot above shows the fan on in red and off in green. The onboard Fan SHIM LED gradually changes colour between the two thresholds but the onboard button is not used.
 
 To run use: sudo python3 fanShimAuto.py
 
