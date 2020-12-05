@@ -16,3 +16,5 @@ Under Xubuntu on Pi4 we used 'Settings/Session and Startup/Application Autostart
 PySimpleGUI allows fairly easy intuitive changes to be made to the screen layout and is extremely well documented https://pysimplegui.readthedocs.io/en/latest/
 
 The tabbing system would allow other programs in the Pimoroni folder (referenced above) to have their own new tabs. Currently the min/max thresholds to switch the FanSHIM are hard-coded (45 +/- 5 degC) but GUI controls to set a mean target temperature and +/- degrees C band wanted above and below might want to be added. The restart feature is useful for testing modifications.
+
+Last updated 05Dec2020 12:02
