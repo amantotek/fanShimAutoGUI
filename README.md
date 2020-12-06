@@ -3,9 +3,7 @@ Controls Pimoroni Fan SHIM on Raspberry Pi4 using Xubuntu 20.04 LTS running Pyth
 
 https://github.com/pimoroni/fanshim-python/tree/master/examples has files for the Pimoroni Fan SHIM aimed at the Rasbian Operating System. Several Python3 command line files are listed here to operate/test fan features including automatic.py upon which this software is built. This software has been developed using Xubuntu 20.04 LTS operating system with added feature of GUI screen operation.
 
-![image](https://user-images.githubusercontent.com/7591528/101183540-8fea3180-3647-11eb-8c69-5b3095b46bec.png)
-
-![20201201fanShimAutoPlot2](https://user-images.githubusercontent.com/7591528/101292846-e010f180-3809-11eb-9f95-4581b6e1addf.png)
+![20201206fanshimPlot2](https://user-images.githubusercontent.com/7591528/101292977-b4dad200-380a-11eb-9e65-59b42987db82.png)
 
 The plot above shows the fan on in red and off in green. The onboard Fan SHIM LED gradually changes colour between the two thresholds but the onboard button is not used.
 
