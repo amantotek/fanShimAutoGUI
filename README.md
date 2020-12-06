@@ -19,4 +19,4 @@ PySimpleGUI allows fairly easy intuitive changes to be made to the screen layout
 
 The tabbing system would allow other programs in the Pimoroni folder (referenced above) to have their own new tabs. Currently the min/max thresholds to switch the FanSHIM are hard-coded (45 +/- 5 degC) but GUI controls to set a mean target temperature and +/- degrees C band wanted above and below might want to be added. The restart feature is useful for testing modifications.
 
-Last updated 05Dec2020 12:02
+Last updated 06Dec2020 21:36
